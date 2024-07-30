@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Encriptador</title>
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+</head>
+
+<body>
+  <header>
+    <img src="assets/Logo.png"  class="logo">
+  </header>  
+  <main class="contenedor">
+      <section class="entrada">
+          <textarea name="texto-entrada" id="texto-entrada" placeholder="Ingrese el texto aqui"></textarea>
+          <div class="componentes">
+              <div class="terminos">
+                    <img src="assets/alerta.png" id="img_termino" alt="">
+                  <p id="requisito">Solo minusculas y acentos</p>
+              </div>
+              <div class="botones">
+                  <button class="btn-encriptar" onclick="encriptar()">Encriptar</button>
+                  <button class="btn-desencriptar" onclick="desencriptar()">Desencriptar</button>
+              </div>
+          </div>
+        </section>
+      <section class="salida">
+          <div class="mensaje">
+              <img src="assets/danger.png" alt="" id="danger">
+              <h2 class="titulo-mensaje">No se encontro ningun mensaje.</h2>
+              <p class="parrafo">Ingrese el texto que desee encriptar o desencriptar.</p>
+          </div>
+          <div class="contenedor-salida">
+              <textarea name="texto-salida" id="texto-salida" disabled></textarea>
+              <button id="btn-copiar" class="btn-copiar" onclick="copiarAPortapapeles();">Copiar</button>
+          </div>
+        </section>
+  </main>
+  <footer></footer>
+  <script src="app.js"></script>
+</body>
+
+</html>
