@@ -41,4 +41,4 @@ es una herramienta de cifrado de texto que sigue reglas específicas para transf
 
 ## Autores ✒️
 
-- **Nicolas Romero** - _Challenger Alura Latam_ - [Nicolas Romero](https://github.com/nico-romero1096)
+- **Nicolas Romero** - _Challenge Alura Latam_ - [Nicolas Romero](https://github.com/nico-romero1096)
