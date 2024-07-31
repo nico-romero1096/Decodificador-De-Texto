@@ -39,3 +39,6 @@ es una herramienta de cifrado de texto que sigue reglas específicas para transf
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
 - [JAVASCRIPT](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
+## Autores ✒️
+
+- **Nicolas Romero** - _Challenger Alura Latam_ - [Nicolas Romero](https://github.com/nico-romero1096)
