@@ -1,4 +1,4 @@
-# Encriptador de Texto
+# Decodificador de Texto
 
 ## Descripcion
 
