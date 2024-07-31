@@ -11,3 +11,25 @@ es una herramienta de cifrado de texto que sigue reglas específicas para transf
 5. La letra “u” se convierte en “ufat”.
 
 
+## Empezando 🚀
+
+###Encriptacion:
+
+- Ingresa el código o mensaje original en el cuadro de texto izquierdo.
+- Haz clic en el botón “Encriptar”.
+- El resultado encriptado aparecerá en el cuadro de texto derecho.
+- Si deseas copiar el resultado, utiliza el botón “Copiar”.
+
+
+###Desencriptacion:
+
+- Si ya tienes un mensaje encriptado, ingrésalo en el cuadro de texto izquierdo.
+- Haz clic en el botón “Desencriptar”.
+- El mensaje original se mostrará en el cuadro de texto derecho.
+- Nuevamente, puedes copiar el resultado si lo necesitas.
+
+![Encriptador sin texto](/assets/Encriptador.png)
+
+![Desencriptacion de texto](/assets/Encriptador2.png)
+
+
