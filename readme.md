@@ -13,7 +13,7 @@ es una herramienta de cifrado de texto que sigue reglas específicas para transf
 
 ## Empezando 🚀
 
-###Encriptacion:
+**Encriptacion:
 
 - Ingresa el código o mensaje original en el cuadro de texto izquierdo.
 - Haz clic en el botón “Encriptar”.
@@ -21,7 +21,7 @@ es una herramienta de cifrado de texto que sigue reglas específicas para transf
 - Si deseas copiar el resultado, utiliza el botón “Copiar”.
 
 
-###Desencriptacion:
+**Desencriptacion:
 
 - Si ya tienes un mensaje encriptado, ingrésalo en el cuadro de texto izquierdo.
 - Haz clic en el botón “Desencriptar”.
