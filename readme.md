@@ -33,3 +33,9 @@ es una herramienta de cifrado de texto que sigue reglas específicas para transf
 ![Desencriptacion de texto](/assets/Encriptador2.png)
 
 
+## Construido Con 🛠️
+
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
+- [JAVASCRIPT](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
